@@ -65,7 +65,6 @@
 
 ---
 
-## ⚡ Fun Section
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=500\&lines=Full+Stack+Developer;Freelancer;Building+Cool+Projects)
 
