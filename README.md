@@ -1,3 +1,9 @@
-🌐 Let's Connect & Collaborate
-<div align="center"> <a href="https://my-portifolio-iota-snowy.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> &nbsp; <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://twitter.com/YOUR_TWITTER"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> &nbsp; <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://github.com/kikemal"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div><div align="center"> <br/> <h4>✨ Featured Projects ✨</h4> <a href="https://cleaning-website-weld.vercel.app/"> <img src="https://img.shields.io/badge/🧹_Cleaning_Service-6C63FF?style=for-the-badge" /> </a> &nbsp; <a href="https://github.com/kikemal/AI-Productivity-Tool"> <img src="https://img.shields.io/badge/🤖_AI_Productivity_Tool-6C63FF?style=for-the-badge" /> </a> &nbsp; <a href="https://github.com/kikemal/multiplayer-snake-game"> <img src="https://img.shields.io/badge/🐍_Multiplayer_Snake-6C63FF?style=for-the-badge" /> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=120&section=footer" width="100%"/> </div><div align="center"> <b>✨ "Building beautiful digital experiences with code and creativity" ✨</b> <br/><br/> <i>💻 Open for collaborations | 🎨 Design enthusiast | 🚀 SaaS builder</i> <br/> <sub>⭐️ If you like my work, consider starring my repositories!</sub> <br/> <sub>📍 Ethiopia | Last Updated: March 2026</sub> </div> ```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,15,18&height=250&section=header&text=Kike%20Mal&fontSize=60&fontAlignY=35&animation=fadeIn&stroke=6C63FF&strokeWidth=2" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=✨+Creative+Full+Stack+Developer+✨;React+%7C+Next.js+%7C+Flutter+Expert;SaaS+Architect+%7C+UI%2FUX+Designer;Shopify+%7C+WordPress+Developer;Building+Beautiful+Digital+Experiences&font=Fira%20Code&center=true&width=600&height=50&color=6C63FF&vCenter=true&pause=1000&size=20" />
+</div>
+
+<br/>
