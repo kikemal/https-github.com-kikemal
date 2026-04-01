@@ -7,3 +7,12 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kikemal&style=for-the-badge&color=6C63FF&label=👀+Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/kikemal?style=for-the-badge&logo=github&color=6C63FF&label=⭐+Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/kikemal?style=for-the-badge&logo=github&color=6C63FF&label=✨+Total+Stars" />
+</div>
+
+<br/>
