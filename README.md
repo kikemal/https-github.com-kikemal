@@ -16,3 +16,25 @@
 </div>
 
 <br/>
+## 🚀 **About Me**
+
+```javascript
+const kikeMal = {
+    name: "Kike Mal",
+    title: "Creative Full Stack Developer & UI/UX Designer",
+    location: "📍 Based in Ethiopia",
+    code: ["JavaScript", "TypeScript", "Dart", "Python", "Java", "PHP"],
+    frontend: ["React.js", "Next.js 14", "TailwindCSS", "Framer Motion"],
+    backend: ["Next.js API", "Supabase", "Node.js", "Express", "Python"],
+    mobile: ["Flutter", "React Native"],
+    cms: ["Shopify", "WordPress", "Sanity"],
+    design: ["Figma", "Adobe XD", "UI/UX Design", "Prototyping"],
+    currentProjects: [
+        "🧹 Cleaning Service Website",
+        "🤖 AI Productivity Tool",
+        "🐍 Multiplayer Snake Game",
+        "🌾 Agriculture Management System"
+    ],
+    passion: "Creating seamless user experiences with beautiful designs",
+    funFact: "I can design in Figma and code it into reality in one day! 🎨✨"
+};
