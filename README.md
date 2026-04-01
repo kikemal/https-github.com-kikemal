@@ -1,19 +1,18 @@
 <div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/✨_Kike_Mal_✨-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=4A90E2" />
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Creative_Developer-FF6B6B?style=flat-square&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX_Designer-4ECDC4?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SaaS_Architect-FFE66D?style=flat-square&logo=cloud&logoColor=black" />
-  <img src="https://img.shields.io/badge/Full_Stack-6C63FF?style=flat-square&logo=stackoverflow&logoColor=white" />
-  
-  <br/><br/>
-  
-  <h3>⚡ Building beautiful digital experiences with code and creativity ⚡</h3>
-  
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kikemal&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="400" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kike+Mal+👋;Creative+Developer;UI%2FUX+Designer;SaaS+Architect;Welcome+to+my+space!&repeat=false" alt="Typing SVG" />
+  </h1>
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=9B5DE5&center=true&vCenter=true&width=600&lines=✨+Full+Stack+Developer+%7C+Flutter+Expert+✨;🎨+UI%2FUX+Designer+%7C+SaaS+Builder+🎨;🚀+Building+Digital+Experiences+🚀" alt="Typing SVG" />
+  </h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
 <br/>
