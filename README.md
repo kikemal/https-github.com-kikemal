@@ -1,40 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,15,18&height=250&section=header&text=Kike%20Mal&fontSize=60&fontAlignY=35&animation=fadeIn&stroke=6C63FF&strokeWidth=2" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=✨+Creative+Full+Stack+Developer+✨;React+%7C+Next.js+%7C+Flutter+Expert;SaaS+Architect+%7C+UI%2FUX+Designer;Shopify+%7C+WordPress+Developer;Building+Beautiful+Digital+Experiences&font=Fira%20Code&center=true&width=600&height=50&color=6C63FF&vCenter=true&pause=1000&size=20" />
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kikemal&style=for-the-badge&color=6C63FF&label=👀+Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/kikemal?style=for-the-badge&logo=github&color=6C63FF&label=⭐+Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/kikemal?style=for-the-badge&logo=github&color=6C63FF&label=✨+Total+Stars" />
-</div>
-
-<br/>
-## 🚀 **About Me**
-
-```javascript
-const kikeMal = {
-    name: "Kike Mal",
-    title: "Creative Full Stack Developer & UI/UX Designer",
-    location: "📍 Based in Ethiopia",
-    code: ["JavaScript", "TypeScript", "Dart", "Python", "Java", "PHP"],
-    frontend: ["React.js", "Next.js 14", "TailwindCSS", "Framer Motion"],
-    backend: ["Next.js API", "Supabase", "Node.js", "Express", "Python"],
-    mobile: ["Flutter", "React Native"],
-    cms: ["Shopify", "WordPress", "Sanity"],
-    design: ["Figma", "Adobe XD", "UI/UX Design", "Prototyping"],
-    currentProjects: [
-        "🧹 Cleaning Service Website",
-        "🤖 AI Productivity Tool",
-        "🐍 Multiplayer Snake Game",
-        "🌾 Agriculture Management System"
-    ],
-    passion: "Creating seamless user experiences with beautiful designs",
-    funFact: "I can design in Figma and code it into reality in one day! 🎨✨"
-};
+🛠️ Tech Stack & Tools
+<h3 align="center">🎨 Frontend Development</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass&perline=4" /> </div><h3 align="center">⚙️ Backend & Database</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=supabase,postgresql,nodejs,express,prisma,python,django&perline=4" /> </div><h3 align="center">📱 Mobile Development</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,react&perline=3" /> </div><h3 align="center">🛍️ E-commerce & CMS</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=wordpress&perline=1" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> </div><h3 align="center">🎨 UI/UX & Design</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=4" /> </div><h3 align="center">🔧 DevOps & Tools</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker,java&perline=3" /> </div>
+🏆 Featured Projects
+<div align="center"> <table> <tr> <td align="center" width="50%"> <h3>🧹 Cleaning Service Website</h3> <p>React • Next.js • TailwindCSS • Booking System</p> <a href="https://cleaning-website-weld.vercel.app/"> <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <br/> <a href="https://github.com/kikemal/cleaning-website"> <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> <td align="center" width="50%"> <h3>🤖 AI Productivity Tool</h3> <p>AI-Powered • Task Management • Smart Analytics</p> <a href="https://github.com/kikemal/AI-Productivity-Tool"> <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> <tr> <td align="center"> <h3>🐍 Multiplayer Snake Game</h3> <p>Java • Real-time • Socket Programming</p> <a href="https://github.com/kikemal/multiplayer-snake-game"> <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> <td align="center"> <h3>🌾 AgriTech Fayda System</h3> <p>Agriculture Management • Delivery System • Python</p> <a href="https://github.com/kikemal/Tailoring-Agriculture-quality-products-Delivery-system-Agri-Tech-fayda-"> <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> </table> </div><div align="center"> <a href="https://my-portifolio-iota-snowy.vercel.app/"> <img src="https://img.shields.io/badge/🎨_View_My_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div>
+📜 Certifications & Achievements
+<div align="center"> <table> <tr> <td align="center"> <img src="https://img.shields.io/badge/React_Certified-6C63FF?style=for-the-badge&logo=react&logoColor=white" /> <br/> <sub>Meta Frontend Professional</sub> </td> <td align="center"> <img src="https://img.shields.io/badge/Next.js_Expert-6C63FF?style=for-the-badge&logo=next.js&logoColor=white" /> <br/> <sub>Vercel Official</sub> </td> <td align="center"> <img src="https://img.shields.io/badge/Flutter_Developer-6C63FF?style=for-the-badge&logo=flutter&logoColor=white" /> <br/> <sub>Google Certified</sub> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Supabase-6C63FF?style=for-the-badge&logo=supabase&logoColor=white" /> <br/> <sub>Database Specialist</sub> </td> <td align="center"> <img src="https://img.shields.io/badge/UI/UX_Design-6C63FF?style=for-the-badge&logo=figma&logoColor=white" /> <br/> <sub>Google UX Design</sub> </td> <td align="center"> <img src="https://img.shields.io/badge/Shopify_Expert-6C63FF?style=for-the-badge&logo=shopify&logoColor=white" /> <br/> <sub>Shopify Partner</sub> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/WordPress_Developer-6C63FF?style=for-the-badge&logo=wordpress&logoColor=white" /> <br/> <sub>Advanced WordPress</sub> </td> <td align="center"> <img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white" /> <br/> <sub>Python Development</sub> </td> <td align="center"> <img src="https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=java&logoColor=white" /> <br/> <sub>Java Programming</sub> </td> </tr> </table> </div>
+📊 GitHub Analytics
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kikemal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&ring_color=6C63FF" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kikemal&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" /> </div><div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikemal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" /> <img width="49%" src="https://github-profile-trophy.vercel.app/?username=kikemal&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title_color=6C63FF" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kikemal&theme=react-dark&bg_color=0D1117&hide_border=true&color=6C63FF&line=9B5DE5&point=FFFFFF&area=true&area_color=6C63FF" /> </div>
+💼 What I'm Currently Working On
+<div align="center"> <table> <tr> <td width="50%"> 🚀 <b>SaaS Platform Development</b><br/> Building scalable SaaS solutions with Next.js + Supabase </td> <td width="50%"> 📱 <b>Flutter Mobile App</b><br/> Cross-platform app for agriculture management </td> </tr> <tr> <td> 🛍️ <b>Shopify Custom Theme</b><br/> Creating custom Shopify themes for e-commerce clients </td> <td> 🎨 <b>UI/UX Design System</b><br/> Building reusable component library for faster development </td> </tr> </table> </div>
