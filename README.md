@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,15,18&height=250&section=header&text=YOUR_NAME&fontSize=70&fontAlignY=35&animation=fadeIn&stroke=6C63FF&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,15,18&height=250&section=header&text=Kike%20Mal&fontSize=60&fontAlignY=35&animation=fadeIn&stroke=6C63FF&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
@@ -8,18 +8,13 @@
 
 <br/>
 
-<!-- Animated Gradient Banner -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
 <!-- Profile Stats Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF&label=👀+Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=kikemal&style=for-the-badge&color=6C63FF&label=👀+Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=6C63FF&label=⭐+Followers" />
+  <img src="https://img.shields.io/github/followers/kikemal?style=for-the-badge&logo=github&color=6C63FF&label=⭐+Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=6C63FF&label=✨+Total+Stars" />
+  <img src="https://img.shields.io/github/stars/kikemal?style=for-the-badge&logo=github&color=6C63FF&label=✨+Total+Stars" />
 </div>
 
 <br/>
@@ -29,17 +24,22 @@
 ## 🚀 **About Me**
 
 ```javascript
-const mernStackDeveloper = {
-    name: "YOUR_NAME",
+const kikeMal = {
+    name: "Kike Mal",
     title: "Creative Full Stack Developer & UI/UX Designer",
-    location: "📍 Based in YOUR_LOCATION",
-    code: ["JavaScript", "TypeScript", "Dart", "PHP", "HTML/CSS"],
+    location: "📍 Based in Ethiopia",
+    code: ["JavaScript", "TypeScript", "Dart", "Python", "Java", "PHP"],
     frontend: ["React.js", "Next.js 14", "TailwindCSS", "Framer Motion"],
-    backend: ["Next.js API", "Supabase", "Node.js", "Express"],
+    backend: ["Next.js API", "Supabase", "Node.js", "Express", "Python"],
     mobile: ["Flutter", "React Native"],
     cms: ["Shopify", "WordPress", "Sanity"],
     design: ["Figma", "Adobe XD", "UI/UX Design", "Prototyping"],
-    currentFocus: "Building scalable SaaS applications",
+    currentProjects: [
+        "🧹 Cleaning Service Website",
+        "🤖 AI Productivity Tool",
+        "🐍 Multiplayer Snake Game",
+        "🌾 Agriculture Management System"
+    ],
     passion: "Creating seamless user experiences with beautiful designs",
     funFact: "I can design in Figma and code it into reality in one day! 🎨✨"
 };
