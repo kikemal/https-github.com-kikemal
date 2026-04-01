@@ -1,40 +1,45 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from Your Location</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
-</p>
-## 🚀 About Me
-
-- 🔭 I'm currently working on **[Project Name](link)**
-- 🌱 I'm learning **Next.js, TypeScript**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, Python**
-- 📫 Reach me: **email@example.com**
-- ⚡ Fun fact: **I love coding at 3 AM**
-- ## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,fastapi,mongodb,postgres,git,docker,aws&perline=7" />
-</p>
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,fastapi,mongodb,postgres,git,docker,aws&perline=7" />
-</p>
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,15,18&height=250&section=header&text=YOUR_NAME&fontSize=70&fontAlignY=35&animation=fadeIn&stroke=6C63FF&strokeWidth=2" width="100%"/>
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=✨+Creative+Full+Stack+Developer+✨;React+%7C+Next.js+%7C+Flutter+Expert;SaaS+Architect+%7C+UI%2FUX+Designer;Shopify+%7C+WordPress+Developer;Building+Beautiful+Digital+Experiences&font=Fira%20Code&center=true&width=600&height=50&color=6C63FF&vCenter=true&pause=1000&size=20" />
 </div>
-## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&hide_border=true" />
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+<br/>
 
+<!-- Animated Gradient Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<!-- Profile Stats Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF&label=👀+Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=6C63FF&label=⭐+Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=6C63FF&label=✨+Total+Stars" />
+</div>
+
+<br/>
+
+---
+
+## 🚀 **About Me**
+
+```javascript
+const mernStackDeveloper = {
+    name: "YOUR_NAME",
+    title: "Creative Full Stack Developer & UI/UX Designer",
+    location: "📍 Based in YOUR_LOCATION",
+    code: ["JavaScript", "TypeScript", "Dart", "PHP", "HTML/CSS"],
+    frontend: ["React.js", "Next.js 14", "TailwindCSS", "Framer Motion"],
+    backend: ["Next.js API", "Supabase", "Node.js", "Express"],
+    mobile: ["Flutter", "React Native"],
+    cms: ["Shopify", "WordPress", "Sanity"],
+    design: ["Figma", "Adobe XD", "UI/UX Design", "Prototyping"],
+    currentFocus: "Building scalable SaaS applications",
+    passion: "Creating seamless user experiences with beautiful designs",
+    funFact: "I can design in Figma and code it into reality in one day! 🎨✨"
+};
