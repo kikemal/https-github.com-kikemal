@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>
+    <span style="background: linear-gradient(135deg, #6C63FF, #4A90E2); padding: 10px 20px; border-radius: 10px;">
+      ✨ Kike Mal ✨
+    </span>
+  </h1>
+</div>
 🛠️ Tech Stack & Tools
 <h3 align="center">🎨 Frontend Development</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass&perline=4" /> </div><h3 align="center">⚙️ Backend & Database</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=supabase,postgresql,nodejs,express,prisma,python,django&perline=4" /> </div><h3 align="center">📱 Mobile Development</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,react&perline=3" /> </div><h3 align="center">🛍️ E-commerce & CMS</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=wordpress&perline=1" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> </div><h3 align="center">🎨 UI/UX & Design</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=4" /> </div><h3 align="center">🔧 DevOps & Tools</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker,java&perline=3" /> </div>
 🏆 Featured Projects
